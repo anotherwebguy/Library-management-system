@@ -1,0 +1,20 @@
+This is an overview of my project:-
+The project consist of 4 windows as described below:
+
+
+1) LIBRARY PORTAL PAGE:-
+     This page consists of student portal which can be easily accessible 
+     by student of specific college and a separate ‘Add Button’ which is
+     only accessible to admin.
+  
+2.ISSUE BOOK:- 
+     Students can easily issue a book by adding there Name, Student ID NO.
+     and the name of the required book.
+
+3.RETURN BOOK:-
+     User can easily return book by adding book name, student ID number 
+     and by clicking submit button.
+
+4. AVAILABLE BOOKS :- 
+     User can check the book availability by choosing any subject, 
+     followed by the book name.
